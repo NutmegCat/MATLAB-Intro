@@ -5,4 +5,4 @@ During the scheduled lab session (in-person), you will demonstrate a set of acti
 MATLAB.
 
 ---
-Plotted some things, made a graph
+Plotted some things (Part 3), made a graph (Part 4)
